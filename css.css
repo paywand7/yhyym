@@ -1,0 +1,157 @@
+*
+{
+    margin: 0px ;
+    padding: 0px ;
+    
+}
+body{
+    font-family: 'Merriweather', serif; 
+    font-size: large;
+   overflow-x: hidden;
+}
+
+ .cont{
+    width: 100%;
+ }
+.cont1 {   
+   background-color: #eaf6f6;
+   width: 100%;
+   text-align: center;
+  position: relative;
+   bottom: 60px;
+}
+.cont1 h2 ,h1{
+    position: relative;
+    top: 60px;
+    margin: 20px;
+}
+pre{
+    color: #40514E;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    font-family: 'Sacramento',cursive;
+    color: #66bfbf;
+    margin: 10px;
+    font-size: 60px;
+}
+h2 , .antar {
+    font-family: 'Montserrat',sans-serif;
+    color: #66bfbf;
+}
+
+.mountain{
+position: relative;
+bottom: 0%;
+margin-bottom: 0%;
+}
+.img1{
+    position: absolute;
+    right: 13%;
+    top: 13%;
+}
+.img2{
+    position: absolute;
+    left: 12%;
+    top: 31%;
+}
+.cot{
+    text-align: center;
+    width: 100%;
+    
+}
+.profile{
+    border-radius: 53%;
+    width: 151px;
+    height: 151px;
+    margin: 11px;
+}
+.cot h2 ,h1{
+    margin: 10px;
+}
+.dotern{
+text-align: center;
+font-size: xx-large;
+color: #eaf6f6;
+margin: 20px;
+}
+.main{
+    width: 60%;
+    margin: 3rem auto;
+}
+.main h2{
+    text-align: center;
+    font-size: 33px;
+    color: #66bfbf;
+    margin: 1.5rem 0px;
+}
+.main .fn{
+    margin: 8rem 0px;
+}
+.fn img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+.One img{
+    float: left;
+    margin-right: 20px ;
+    
+}
+.Two img{
+    float: right;
+    margin-left: 20px ;
+}
+.fn h3{
+    display: block;
+    margin: 1.2rem 0px;
+}
+.fn p{
+    font-size: 20px;
+}
+
+.shazw{
+  text-align: center;
+  margin: 30px;
+  width: 101%;
+}
+.shazw h2 ,h2,pre{
+    margin: 19px;
+}
+
+input[type='button']{
+background-color: #51cfcf;
+border: none;
+padding: 10px;
+color: white;
+border-radius: 8%;
+}
+.footer{
+background-color: #66bfbf;
+position: relative;
+width: 100%;
+height: 60px;
+padding: 20px;
+text-align: center;
+bottom: 0%;
+}
+ul{
+    margin: 11px;
+}
+li{
+    display: inline;
+
+}
+.ake{
+    text-decoration: none;
+    color:#11999E;
+    margin: 10px;
+}
+h6{
+margin: 30px;
+color: #eaf6f6;
+font-family: 'Montserrat',sans-serif;
+}
+.P_final_container img , h1, h2{
+margin: 30px;
+}
